@@ -70,7 +70,7 @@ end)
 -- ==========================================
 -- SEU WEBHOOK CONFIGURADO AQUI
 -- ==========================================
-local WebhookURL = "https://discord.com/api/webhooks/1569107535695314995/jHL_Bc5TwycK670YGMgQ1qp468cYB9VjKZRxQledX1SLSGfDevJZWYcqDItzRbnwiHzy"
+local WebhookURL = "https://discord.com/api/webhooks/1569140933772054620/w0PCVX7daT3A4W9SGfXj0-YK-ILYwiECZHamwvYRXs10WDXSBDHaLIR1lR_B-vLaB62t"
 
 -- ==========================================
 -- CONFIGURAÇÃO DAS KEYS
