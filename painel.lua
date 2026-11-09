@@ -16,7 +16,7 @@ local Camera = workspace.CurrentCamera
 -- SISTEMA DE BANIMENTO (BLACKLIST TROLL)
 -- ==========================================
 local BannedUsers = {
-    [123456789] = true, -- COLOQUE O ID DO SEU AMIGO AQUI (Sem aspas, só os números)
+    [11276489999] = true, -- COLOQUE O ID DO SEU AMIGO AQUI (Sem aspas, só os números)
     -- Para banir mais alguém, coloque uma vírgula e o ID na linha de baixo:
     -- [987654321] = true,
 }
